@@ -81,8 +81,8 @@ publication_category:
     title: 'Journal Articles'    
   conferences:
     title: 'Conference Papers'
- abstract:
-   title: 'Conference Abstracts'
+  abstract:
+    title: 'Conference Abstracts'
 
 
 # Site Settings
