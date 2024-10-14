@@ -12,5 +12,3 @@ location: "Pittsburgh, PA"
 
 Led weekly recitation sessions; graded homeworks and exams; supervised lab and project work on building neural current stimulator circuit
 
-#Heading 1
-#======

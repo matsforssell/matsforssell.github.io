@@ -11,6 +11,3 @@ location: "Stanford, CA"
 ** Professors: Samuel Chiu
 
 weekly recitation sessions; graded homework and exams
-
-#Heading 1
-#======
