@@ -11,35 +11,46 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Electrical and Computer Engineering, Carnegie Mellon University, PA, 2019 
+  * "Long-term insulation of active electronics embedded in compliant neural probes", Advisor: Gary Fedder 
+* M.S. in Management Science and Engineering, Stanford University, CA, 2012
+* M.S. in Engineering, École Centrale Paris (now Université Paris-Saclay, CentraleSupélec), Paris, France, 2012
 
-Work experience
+Teaching experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Spring 2017: Teaching Assistant -- Neural Technology: Sening and Stimulation
+  * Carnegie Mellon University, Electrical and Computer Engineering
+  * Professor: Shawn Kelly
+  * Duties includes: Led weekly recitation sessions; graded homeworks and exams; supervised lab and project work on building neural current stimulator circuit
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2017: Teaching Assistant -- Electronic Devices and Analog Circuits
+  * Carnegie Mellon University, Electrical and Computer Engineering
+  * Professors: Tamal Mukherjee & Shawn Kelly
+  * Duties includes: Head Teaching Assistand: coordinated 15 TAs and interfaced between students and professors; held office hours; graded exams
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fall 2016: Teaching Assistant -- Electronic Devices and Analog Circuits
+  * Carnegie Mellon University, Electrical and Computer Engineering
+  * Professors: James Bain & Shawn Kelly
+  * Duties includes: Lab TA, supervising 25 students and 3 other TAs in electronics lab sessions; held office hours; graded exams
+  
+* Fall 2015: Teaching Assistant -- Electronic Devices and Analog Circuits
+  * Carnegie Mellon University, Electrical and Computer Engineering
+  * Professors: Tamal Mukherjee & Shawn Kelly
+  * Duties includes: Lab TA, supervising 25 students and 3 other TAs in electronics lab sessions; held office hours; graded exams
+  
+* Spring 2015: Teaching Assistant -- Electronic Devices and Analog Circuits
+  * Carnegie Mellon University, Electrical and Computer Engineering
+  * Professors: Larry Pileggy & Jeffrey Weldon
+  * Duties includes: Lab TA, supervising 25 students and 3 other TAs in electronics lab sessions; held office hours; graded exams
+    
+* Fall 2012: Teaching Assistant -- Probabilistic Analysis
+  * Professor: Samuel Chiu
+  * Stanford University, Management Science & Engineering
+  * Duties includes: weekly recitation sessions; graded homework and exams
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+
 
 Publications
 ======
@@ -47,18 +58,18 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+#Talks
+#======
+#  <ul>{% for post in site.talks reversed %}
+#    {% include archive-single-talk-cv.html  %}
+#  {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+#Teaching
+#======
+#  <ul>{% for post in site.teaching reversed %}
+#    {% include archive-single-cv.html %}
+#  {% endfor %}</ul>
+#  
+#Service and leadership
+#======
+#* Currently signed in to 43 different slack teams
