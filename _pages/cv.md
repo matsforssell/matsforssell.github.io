@@ -50,9 +50,10 @@ Teaching experience
   * Duties includes: weekly recitation sessions; graded homework and exams
  --> 
 
+<!---
 Skills
 ----
-
+-->
 
 Publications
 ----
