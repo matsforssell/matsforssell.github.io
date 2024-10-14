@@ -21,7 +21,7 @@ repository               : "matsforssell.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "2022_Mats Forssell.jpg"
   name             : "Mats Forssell"
   pronouns         : "he/him"  
   bio              : "Research Scientist at Carnegie Mellon University, Electrical and Computer Engineering"
