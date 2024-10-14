@@ -32,7 +32,7 @@ publist = {
         "venue-pretext": "In the proceedings of ",
         "collection" : {"name":"publications",
                         "permalink":"/publication/"},
-        "category" : "manuscripts"        
+        "category" : "conferences"        
     },
     "journal":{
         "file": "journal.bib",
@@ -40,7 +40,7 @@ publist = {
         "venue-pretext" : "",
         "collection" : {"name":"publications",
                         "permalink":"/publication/"},
-        "category" : "conferences"        
+        "category" : "manuscripts"        
     },
     "thesis":{
         "file": "thesis.bib",

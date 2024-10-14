@@ -8,7 +8,7 @@ date: 2017-01-01
 location: "Pittsburgh, PA"
 ---
 
-** Professor: Shawn Kelly
+**Professor: Shawn Kelly**
 
 Led weekly recitation sessions; graded homeworks and exams; supervised lab and project work on building neural current stimulator circuit
 

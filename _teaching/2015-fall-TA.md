@@ -8,6 +8,6 @@ date: 2015-09-01
 location: "Pittsburgh, PA"
 ---
 
-** Professors: Tamal Mukherjee & Shawn Kelly
+**Professors: Tamal Mukherjee & Shawn Kelly**
 
 Lab TA, supervising 25 students and 3 other TAs in electronics lab sessions; held office hours; graded exams

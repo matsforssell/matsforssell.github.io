@@ -1,7 +1,7 @@
 ---
 title: "In vitro electrochemical characterization of polydopamine melanin as a tissue stimulating electrode material"
 collection: publications
-category: conferences
+category: manuscripts
 permalink: /publication/2016-01-01-In-vitro-electrochemical-characterization-of-polydopamine-melanin-as-a-tissue-stimulating-electrode-material
 date: 2016-01-01
 venue: 'Journal of Materials Chemistry B'

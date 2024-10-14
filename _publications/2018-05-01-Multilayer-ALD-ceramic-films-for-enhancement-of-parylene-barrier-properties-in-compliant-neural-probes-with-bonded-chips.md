@@ -1,7 +1,7 @@
 ---
 title: "Multilayer ALD ceramic films for enhancement of parylene barrier properties in compliant neural probes with bonded chips"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/2018-05-01-Multilayer-ALD-ceramic-films-for-enhancement-of-parylene-barrier-properties-in-compliant-neural-probes-with-bonded-chips
 date: 2018-05-01
 venue: 'In the proceedings of 2018 Solid-State, Actuators, and Microsystems Workshop Technical Digest'

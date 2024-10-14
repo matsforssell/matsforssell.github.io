@@ -8,6 +8,6 @@ date: 2015-01-01
 location: "Pittsburgh, PA"
 ---
 
-** Professors: Larry Pileggi & Jeffrey Weldon
+**Professors: Larry Pileggi & Jeffrey Weldon**
 
 Lab TA, supervising 25 students and 3 other TAs in electronics lab sessions; held office hours; graded exams

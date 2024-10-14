@@ -1,7 +1,7 @@
 ---
 title: "Effect of focality of transcranial currents on neural responses"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/2021-05-01-Effect-of-focality-of-transcranial-currents-on-neural-responses
 date: 2021-05-01
 venue: 'In the proceedings of 2021 10th International IEEE/EMBS Conference on Neural Engineering (NER)'

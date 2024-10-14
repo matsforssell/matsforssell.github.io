@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 Education
-======
+----
 * Ph.D in Electrical and Computer Engineering, Carnegie Mellon University, PA, 2019 
   * "Long-term insulation of active electronics embedded in compliant neural probes", Advisor: Gary Fedder 
 * M.S. in Management Science and Engineering, Stanford University, CA, 2012
@@ -49,12 +49,13 @@ Teaching experience
   * Stanford University, Management Science & Engineering
   * Duties includes: weekly recitation sessions; graded homework and exams
  --> 
+
 Skills
-======
+----
 
 
 Publications
-======
+----
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
@@ -66,8 +67,9 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
 -->  
+
 Teaching
-======
+----
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>

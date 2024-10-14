@@ -1,7 +1,7 @@
 ---
 title: "Hydrogel-based electrodes for selective cervical vagus nerve stimulation"
 collection: publications
-category: conferences
+category: manuscripts
 permalink: /publication/2021-04-01-Hydrogel-based-electrodes-for-selective-cervical-vagus-nerve-stimulation
 date: 2021-04-01
 venue: 'Journal of Neural Engineering'

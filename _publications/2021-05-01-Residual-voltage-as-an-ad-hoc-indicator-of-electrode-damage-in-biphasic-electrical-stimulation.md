@@ -1,7 +1,7 @@
 ---
 title: "Residual voltage as an ad-hoc indicator of electrode damage in biphasic electrical stimulation"
 collection: publications
-category: conferences
+category: manuscripts
 permalink: /publication/2021-05-01-Residual-voltage-as-an-ad-hoc-indicator-of-electrode-damage-in-biphasic-electrical-stimulation
 date: 2021-05-01
 venue: 'Journal of Neural Engineering'

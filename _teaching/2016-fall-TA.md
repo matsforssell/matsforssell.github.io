@@ -8,6 +8,6 @@ date: 2016-09-01
 location: "Pittsburgh, PA"
 ---
 
-** Professors: James Bain & Shawn Kelly
+**Professors: James Bain & Shawn Kelly**
 
 Lab TA, supervising 25 students and 3 other TAs in electronics lab sessions; held office hours; graded exams

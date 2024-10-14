@@ -8,6 +8,6 @@ date: 2017-09-01
 location: "Pittsburgh, PA"
 ---
 
-** Professors: Tamal Mukherjee & Shawn Kelly
+**Professors: Tamal Mukherjee & Shawn Kelly**
 
 Head Teaching Assistand: coordinated 15 TAs and interfaced between students and professors; held office hours; graded exams

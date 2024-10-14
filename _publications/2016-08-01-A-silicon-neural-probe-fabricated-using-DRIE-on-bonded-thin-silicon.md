@@ -1,7 +1,7 @@
 ---
 title: "A silicon neural probe fabricated using DRIE on bonded thin silicon"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/2016-08-01-A-silicon-neural-probe-fabricated-using-DRIE-on-bonded-thin-silicon
 date: 2016-08-01
 venue: 'In the proceedings of 2016 38th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)'

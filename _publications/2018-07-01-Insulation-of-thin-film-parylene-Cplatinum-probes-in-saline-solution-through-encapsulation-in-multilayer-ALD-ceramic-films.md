@@ -1,7 +1,7 @@
 ---
 title: "Insulation of thin-film parylene-C/platinum probes in saline solution through encapsulation in multilayer ALD ceramic films"
 collection: publications
-category: conferences
+category: manuscripts
 permalink: /publication/2018-07-01-Insulation-of-thin-film-parylene-Cplatinum-probes-in-saline-solution-through-encapsulation-in-multilayer-ALD-ceramic-films
 date: 2018-07-01
 venue: 'Biomedical Microdevices'
