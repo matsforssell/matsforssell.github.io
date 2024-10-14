@@ -31,22 +31,24 @@ publist = {
         "venuekey": "booktitle",
         "venue-pretext": "In the proceedings of ",
         "collection" : {"name":"publications",
-                        "permalink":"/publication/"}
-        
+                        "permalink":"/publication/"},
+        "category" : "manuscripts"        
     },
     "journal":{
         "file": "journal.bib",
         "venuekey" : "journal",
         "venue-pretext" : "",
         "collection" : {"name":"publications",
-                        "permalink":"/publication/"}
+                        "permalink":"/publication/"},
+        "category" : "conferences"        
     },
     "thesis":{
         "file": "thesis.bib",
         "venuekey" : "institution",
         "venue-pretext" : "",
         "collection" : {"name":"publications",
-                        "permalink":"/publication/"}
+                        "permalink":"/publication/"},
+        "category" : "thesis"        
     } 
 }
 
@@ -123,6 +125,8 @@ for pubsource in publist:
             md = "---\ntitle: \""   + html_escape(b["title"].replace("{", "").replace("}","").replace("\\","")) + '"\n'
             
             md += """collection: """ +  publist[pubsource]["collection"]["name"]
+            
+            md += """\ncategory: """ +  publist[pubsource]["category"]
 
             md += """\npermalink: """ + publist[pubsource]["collection"]["permalink"]  + html_filename
             

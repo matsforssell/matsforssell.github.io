@@ -1,6 +1,7 @@
 ---
 title: "Effect of electric field direction on neuronal activity: an ex-vivo study"
 collection: publications
+category: manuscripts
 permalink: /publication/2023-07-01-Effect-of-electric-field-direction-on-neuronal-activity-an-ex-vivo-study
 date: 2023-07-01
 venue: 'In the proceedings of 2023 45th Annual International Conference of the IEEE Engineering in Medicine &amp; Biology Society (EMBC)'

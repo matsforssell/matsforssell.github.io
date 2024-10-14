@@ -1,6 +1,7 @@
 ---
 title: "Long-term Insulation of Active Electronics Embedded in Compliant Neural Probes"
 collection: publications
+category: thesis
 permalink: /publication/2019-01-01-Long-term-Insulation-of-Active-Electronics-Embedded-in-Compliant-Neural-Probes
 date: 2019-01-01
 venue: 'Carnegie Mellon University'
