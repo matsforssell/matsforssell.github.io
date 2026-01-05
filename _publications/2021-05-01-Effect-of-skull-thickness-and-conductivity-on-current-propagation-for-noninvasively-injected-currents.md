@@ -1,7 +1,7 @@
 ---
 title: "Effect of skull thickness and conductivity on current propagation for noninvasively injected currents"
 collection: publications
-category: manuscripts
+category: Journal papers
 permalink: /publication/2021-05-01-Effect-of-skull-thickness-and-conductivity-on-current-propagation-for-noninvasively-injected-currents
 date: 2021-05-01
 venue: 'Journal of Neural Engineering'

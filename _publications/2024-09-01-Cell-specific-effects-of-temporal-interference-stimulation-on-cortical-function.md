@@ -1,7 +1,7 @@
 ---
 title: "Cell-specific effects of temporal interference stimulation on cortical function"
 collection: publications
-category: manuscripts
+category: Journal papers
 permalink: /publication/2024-09-01-Cell-specific-effects-of-temporal-interference-stimulation-on-cortical-function
 date: 2024-09-01
 venue: 'Communications Biology'

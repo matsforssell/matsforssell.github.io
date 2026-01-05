@@ -1,7 +1,7 @@
 ---
 title: "A transfer process to fabricate ultra-compliant neural probes in dissolvable needles"
 collection: publications
-category: manuscripts
+category: Journal papers
 permalink: /publication/2017-02-01-A-transfer-process-to-fabricate-ultra-compliant-neural-probes-in-dissolvable-needles
 date: 2017-02-01
 venue: 'Journal of Micromechanics and Microengineering'
