@@ -1,7 +1,7 @@
 ---
 title: "Spatiotemporal mapping of extracellular field potentials in different layers of mouse somatosensory cortex"
 collection: publications
-category: Conference abstracts
+category: abstract
 permalink: /publication/2021-01-01-Spatiotemporal-mapping-of-extracellular-field-potentials-in-different-layers-of-mouse-somatosensory-cortex
 date: 2021-01-01
 venue: 'Neuroscience 2021 (SfN)'

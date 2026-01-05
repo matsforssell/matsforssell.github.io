@@ -1,7 +1,7 @@
 ---
 title: "Safety profile of localized non-invasive brain stimultion using uHD-PES: histological analysis"
 collection: publications
-category: Conference abstracts
+category: abstract
 permalink: /publication/2022-01-01-Safety-profile-of-localized-non-invasive-brain-stimultion-using-uHD-PES-histological-analysis
 date: 2022-01-01
 venue: 'ISN-APSN 2022 Meeting'

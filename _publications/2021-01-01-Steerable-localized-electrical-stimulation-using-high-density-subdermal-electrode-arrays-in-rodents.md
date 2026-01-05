@@ -1,7 +1,7 @@
 ---
 title: "Steerable localized electrical stimulation using high density subdermal electrode arrays in rodents"
 collection: publications
-category: Conference abstracts
+category: abstract
 permalink: /publication/2021-01-01-Steerable-localized-electrical-stimulation-using-high-density-subdermal-electrode-arrays-in-rodents
 date: 2021-01-01
 venue: 'Neuroscience 2021 (SfN)'

@@ -1,7 +1,7 @@
 ---
 title: "An ex-vivo model for non-invasive brain stimulation utilizing perpendicular planes of electrodes"
 collection: publications
-category: Conference abstracts
+category: abstract
 permalink: /publication/2023-01-01-An-ex-vivo-model-for-non-invasive-brain-stimulation-utilizing-perpendicular-planes-of-electrodes
 date: 2023-01-01
 venue: 'Neuroscience 2023 (SfN)'

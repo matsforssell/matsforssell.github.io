@@ -1,7 +1,7 @@
 ---
 title: "Fabrication of tunable electrical skull phantom from carbon nanofiger-doped PDMS"
 collection: publications
-category: Conference abstracts
+category: abstract
 permalink: /publication/2019-01-01-Fabrication-of-tunable-electrical-skull-phantom-from-carbon-nanofiger-doped-PDMS
 date: 2019-01-01
 venue: 'Neuroscience 2019 (SfN)'

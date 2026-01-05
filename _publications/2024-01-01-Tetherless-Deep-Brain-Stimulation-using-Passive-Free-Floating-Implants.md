@@ -1,7 +1,7 @@
 ---
 title: "Tetherless Deep Brain Stimulation using Passive Free-Floating Implants"
 collection: publications
-category: Conference abstracts
+category: abstract
 permalink: /publication/2024-01-01-Tetherless-Deep-Brain-Stimulation-using-Passive-Free-Floating-Implants
 excerpt: '\textbf{Best poster award}'
 date: 2024-01-01

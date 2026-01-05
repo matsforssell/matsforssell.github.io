@@ -1,7 +1,7 @@
 ---
 title: "Directional preference of transcranial electrical stimulation of the motor cortex in humans"
 collection: publications
-category: Conference abstracts
+category: abstract
 permalink: /publication/2023-01-01-Directional-preference-of-transcranial-electrical-stimulation-of-the-motor-cortex-in-humans
 date: 2023-01-01
 venue: 'Neuroscience 2023 (SfN)'

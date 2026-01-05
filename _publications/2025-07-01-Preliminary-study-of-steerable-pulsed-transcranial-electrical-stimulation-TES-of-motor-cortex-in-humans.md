@@ -1,7 +1,7 @@
 ---
 title: "Preliminary study of steerable pulsed transcranial electrical stimulation (TES) of motor cortex in humans"
 collection: publications
-category: Conference papers
+category: conferences
 permalink: /publication/2025-07-01-Preliminary-study-of-steerable-pulsed-transcranial-electrical-stimulation-TES-of-motor-cortex-in-humans
 date: 2025-07-01
 venue: '2025 47th Annual International Conference of the IEEE Engineering in Medicine &amp; Biology Society (EMBC)'

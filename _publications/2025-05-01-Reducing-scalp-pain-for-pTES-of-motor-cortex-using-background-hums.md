@@ -1,7 +1,7 @@
 ---
 title: "Reducing scalp pain for pTES of motor cortex using background hums"
 collection: publications
-category: Submitted manuscripts
+category: manuscripts_submitted
 permalink: /publication/2025-05-01-Reducing-scalp-pain-for-pTES-of-motor-cortex-using-background-hums
 date: 2025-05-01
 venue: 'Submitted'

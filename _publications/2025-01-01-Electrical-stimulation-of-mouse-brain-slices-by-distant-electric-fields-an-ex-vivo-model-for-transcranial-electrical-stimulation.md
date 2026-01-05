@@ -1,7 +1,7 @@
 ---
 title: "Electrical stimulation of mouse brain slices by distant electric fields: an ex vivo model for transcranial electrical stimulation"
 collection: publications
-category: Submitted manuscripts
+category: manuscripts_submitted
 permalink: /publication/2025-01-01-Electrical-stimulation-of-mouse-brain-slices-by-distant-electric-fields-an-ex-vivo-model-for-transcranial-electrical-stimulation
 date: 2025-01-01
 venue: 'In preparation'

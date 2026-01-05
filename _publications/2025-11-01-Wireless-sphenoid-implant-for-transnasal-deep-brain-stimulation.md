@@ -1,7 +1,7 @@
 ---
 title: "Wireless sphenoid implant for transnasal deep brain stimulation"
 collection: publications
-category: Conference abstracts
+category: abstract
 permalink: /publication/2025-11-01-Wireless-sphenoid-implant-for-transnasal-deep-brain-stimulation
 date: 2025-11-01
 venue: 'Neuroscience 2025 (SfN)'

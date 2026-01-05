@@ -1,7 +1,7 @@
 ---
 title: "Influence of out-of-plane electric fields in an ex vivo model of transcranial electrical stimulation"
 collection: publications
-category: Submitted manuscripts
+category: manuscripts_submitted
 permalink: /publication/2025-06-01-Influence-of-out-of-plane-electric-fields-in-an-ex-vivo-model-of-transcranial-electrical-stimulation
 date: 2025-06-01
 venue: 'Submitted'

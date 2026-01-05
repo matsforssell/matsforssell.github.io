@@ -1,7 +1,7 @@
 ---
 title: "HD-ECS Evokes Selective Behavioral Response: Implications for High-Resolution Neuromodulation"
 collection: publications
-category: Conference abstracts
+category: abstract
 permalink: /publication/2023-01-01-HD-ECS-Evokes-Selective-Behavioral-Response-Implications-for-High-Resolution-Neuromodulation
 date: 2023-01-01
 venue: '2023 IEEE Brain Discovery &amp; Neurotechnology Workshop'

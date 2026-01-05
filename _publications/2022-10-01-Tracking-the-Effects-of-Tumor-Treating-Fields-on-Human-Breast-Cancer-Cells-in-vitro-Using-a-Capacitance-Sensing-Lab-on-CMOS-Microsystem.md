@@ -1,7 +1,7 @@
 ---
 title: "Tracking the Effects of Tumor Treating Fields on Human Breast Cancer Cells in vitro Using a Capacitance Sensing Lab-on-CMOS Microsystem"
 collection: publications
-category: Conference papers
+category: conferences
 permalink: /publication/2022-10-01-Tracking-the-Effects-of-Tumor-Treating-Fields-on-Human-Breast-Cancer-Cells-in-vitro-Using-a-Capacitance-Sensing-Lab-on-CMOS-Microsystem
 date: 2022-10-01
 venue: '2022 29th IEEE International Conference on Electronics, Circuits and Systems (ICECS)'

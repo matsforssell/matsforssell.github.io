@@ -1,7 +1,7 @@
 ---
 title: "Time-Varying Mutual Information Analysis of Evoked in Vivo Local Field Potentials in Rodents"
 collection: publications
-category: Conference papers
+category: conferences
 permalink: /publication/2023-04-01-Time-Varying-Mutual-Information-Analysis-of-Evoked-in-Vivo-Local-Field-Potentials-in-Rodents
 date: 2023-04-01
 venue: '2023 11th International IEEE/EMBS Conference on Neural Engineering (NER)'

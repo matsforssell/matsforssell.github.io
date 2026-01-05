@@ -1,7 +1,7 @@
 ---
 title: "Reducing scalp pain during transcranial electrical stimulation of motor cortex in awake subjects"
 collection: publications
-category: Conference abstracts
+category: abstract
 permalink: /publication/2024-01-01-Reducing-scalp-pain-during-transcranial-electrical-stimulation-of-motor-cortex-in-awake-subjects
 date: 2024-01-01
 venue: 'Neuroscience 2024 (SfN)'

@@ -1,7 +1,7 @@
 ---
 title: "Transnasal electrical stimulation (TnES): a method for minimally invasive stimulation of deep brain structures"
 collection: publications
-category: Conference abstracts
+category: abstract
 permalink: /publication/2024-01-01-Transnasal-electrical-stimulation-TnES-a-method-for-minimally-invasive-stimulation-of-deep-brain-structures
 excerpt: '\textbf{Best poster award}'
 date: 2024-01-01

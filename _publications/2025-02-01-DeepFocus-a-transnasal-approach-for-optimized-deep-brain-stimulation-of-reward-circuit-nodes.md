@@ -1,7 +1,7 @@
 ---
 title: "DeepFocus: a transnasal approach for optimized deep brain stimulation of reward circuit nodes"
 collection: publications
-category: Journal papers
+category: manuscripts
 permalink: /publication/2025-02-01-DeepFocus-a-transnasal-approach-for-optimized-deep-brain-stimulation-of-reward-circuit-nodes
 date: 2025-02-01
 venue: 'Journal of Neural Engineering'

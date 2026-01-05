@@ -1,7 +1,7 @@
 ---
 title: "Transnasal implants in the nasal cavity and sphenoid sinus for minimally invasive deep brain stimulation: measurement of electric field in cadavers"
 collection: publications
-category: Journal papers
+category: manuscripts
 permalink: /publication/2025-12-01-Transnasal-implants-in-the-nasal-cavity-and-sphenoid-sinus-for-minimally-invasive-deep-brain-stimulation-measurement-of-electric-field-in-cadavers
 date: 2025-12-01
 venue: 'IEEE Transactions on Biomedical Engineering (In press)'

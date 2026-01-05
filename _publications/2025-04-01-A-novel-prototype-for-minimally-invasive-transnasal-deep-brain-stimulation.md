@@ -1,7 +1,7 @@
 ---
 title: "A novel prototype for minimally-invasive transnasal deep brain stimulation"
 collection: publications
-category: Conference abstracts
+category: abstract
 permalink: /publication/2025-04-01-A-novel-prototype-for-minimally-invasive-transnasal-deep-brain-stimulation
 date: 2025-04-01
 venue: 'AANS Annual Scientific Meeting, 2025'

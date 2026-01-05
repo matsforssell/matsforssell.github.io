@@ -1,7 +1,7 @@
 ---
 title: "Transnasal electric stimulation of deep brain targets in human cadavers"
 collection: publications
-category: Conference abstracts
+category: abstract
 permalink: /publication/2024-01-01-Transnasal-electric-stimulation-of-deep-brain-targets-in-human-cadavers
 date: 2024-01-01
 venue: 'Neuroscience 2024 (SfN)'

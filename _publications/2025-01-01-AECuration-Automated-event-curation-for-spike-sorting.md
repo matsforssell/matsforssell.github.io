@@ -1,7 +1,7 @@
 ---
 title: "AECuration: Automated event curation for spike sorting"
 collection: publications
-category: Journal papers
+category: manuscripts
 permalink: /publication/2025-01-01-AECuration-Automated-event-curation-for-spike-sorting
 date: 2025-01-01
 venue: 'Journal of Neural Engineering'

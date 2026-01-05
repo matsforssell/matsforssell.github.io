@@ -1,7 +1,7 @@
 ---
 title: "Processing of platinum electrodes for parylene-C based neural probes"
 collection: publications
-category: Conference papers
+category: conferences
 permalink: /publication/2016-01-01-Processing-of-platinum-electrodes-for-parylene-C-based-neural-probes
 date: 2016-01-01
 venue: '2016 IEEE 29th International Conference on Micro Electro Mechanical Systems (MEMS)'

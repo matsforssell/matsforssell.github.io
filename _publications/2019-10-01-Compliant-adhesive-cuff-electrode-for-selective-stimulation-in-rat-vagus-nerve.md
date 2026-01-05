@@ -1,7 +1,7 @@
 ---
 title: "Compliant adhesive cuff electrode for selective stimulation in rat vagus nerve"
 collection: publications
-category: Conference papers
+category: conferences
 permalink: /publication/2019-10-01-Compliant-adhesive-cuff-electrode-for-selective-stimulation-in-rat-vagus-nerve
 date: 2019-10-01
 venue: '2019 IEEE SENSORS'

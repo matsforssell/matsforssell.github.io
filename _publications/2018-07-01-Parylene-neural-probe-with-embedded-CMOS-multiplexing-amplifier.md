@@ -1,7 +1,7 @@
 ---
 title: "Parylene neural probe with embedded CMOS multiplexing amplifier"
 collection: publications
-category: Conference papers
+category: conferences
 permalink: /publication/2018-07-01-Parylene-neural-probe-with-embedded-CMOS-multiplexing-amplifier
 date: 2018-07-01
 venue: '2018 40th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)'

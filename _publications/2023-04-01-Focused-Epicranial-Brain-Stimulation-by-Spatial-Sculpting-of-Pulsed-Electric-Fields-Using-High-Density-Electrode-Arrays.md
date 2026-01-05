@@ -1,7 +1,7 @@
 ---
 title: "Focused Epicranial Brain Stimulation by Spatial Sculpting of Pulsed Electric Fields Using High Density Electrode Arrays"
 collection: publications
-category: Journal papers
+category: manuscripts
 permalink: /publication/2023-04-01-Focused-Epicranial-Brain-Stimulation-by-Spatial-Sculpting-of-Pulsed-Electric-Fields-Using-High-Density-Electrode-Arrays
 date: 2023-04-01
 venue: 'Advanced Science'

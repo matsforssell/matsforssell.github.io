@@ -1,7 +1,7 @@
 ---
 title: "Localized, steerable transcranial neuromodulation in rodents using high-density electrode arrays"
 collection: publications
-category: Conference abstracts
+category: abstract
 permalink: /publication/2022-01-01-Localized-steerable-transcranial-neuromodulation-in-rodents-using-high-density-electrode-arrays
 date: 2022-01-01
 venue: '8th Annual BRAIN Initiative Meeting'

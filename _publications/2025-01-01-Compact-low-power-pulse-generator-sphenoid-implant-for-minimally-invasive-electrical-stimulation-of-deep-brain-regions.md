@@ -1,7 +1,7 @@
 ---
 title: "Compact, low-power pulse generator sphenoid implant for minimally invasive electrical stimulation of deep brain regions"
 collection: publications
-category: Conference papers
+category: conferences
 permalink: /publication/2025-01-01-Compact-low-power-pulse-generator-sphenoid-implant-for-minimally-invasive-electrical-stimulation-of-deep-brain-regions
 date: 2025-01-01
 venue: '2025 IEEE International Symposium on Circuits and Systems (ISCAS)'

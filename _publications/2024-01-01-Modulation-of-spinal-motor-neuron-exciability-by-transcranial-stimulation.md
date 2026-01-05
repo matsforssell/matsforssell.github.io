@@ -1,7 +1,7 @@
 ---
 title: "Modulation of spinal motor neuron exciability by transcranial stimulation"
 collection: publications
-category: Conference abstracts
+category: abstract
 permalink: /publication/2024-01-01-Modulation-of-spinal-motor-neuron-exciability-by-transcranial-stimulation
 date: 2024-01-01
 venue: 'Neuroscience 2024 (SfN)'

@@ -1,7 +1,7 @@
 ---
 title: "Efficient epicranial electrical stimulation to induce focal brain activity"
 collection: publications
-category: Conference abstracts
+category: abstract
 permalink: /publication/2023-01-01-Efficient-epicranial-electrical-stimulation-to-induce-focal-brain-activity
 date: 2023-01-01
 venue: '9th Annual BRAIN Initiative Meeting'

@@ -1,7 +1,7 @@
 ---
 title: "FLOATES: a passive implant for minimally invasive deep brain stimulation"
 collection: publications
-category: Submitted manuscripts
+category: manuscripts_submitted
 permalink: /publication/2025-01-01-FLOATES-a-passive-implant-for-minimally-invasive-deep-brain-stimulation
 date: 2025-01-01
 venue: 'In preparation'

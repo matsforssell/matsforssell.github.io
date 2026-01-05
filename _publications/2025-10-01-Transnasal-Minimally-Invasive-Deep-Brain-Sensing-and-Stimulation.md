@@ -1,7 +1,7 @@
 ---
 title: "Transnasal Minimally-Invasive Deep-Brain Sensing and Stimulation"
 collection: publications
-category: Submitted manuscripts
+category: manuscripts_submitted
 permalink: /publication/2025-10-01-Transnasal-Minimally-Invasive-Deep-Brain-Sensing-and-Stimulation
 date: 2025-10-01
 venue: 'Submitted'

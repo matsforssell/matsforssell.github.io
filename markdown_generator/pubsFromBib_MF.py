@@ -33,7 +33,7 @@ publist = {
         "type" : "article",
         "collection" : {"name":"publications",
                         "permalink":"/publication/"},
-        "category" : "Journal papers"        
+        "category" : "manuscripts"        
     },
     "journal_submitted":{
         "file": "Matspapers_unpublished.bib",
@@ -42,7 +42,7 @@ publist = {
         "type" : "article",
         "collection" : {"name":"publications",
                         "permalink":"/publication/"},
-        "category" : "Submitted manuscripts"        
+        "category" : "manuscripts_submitted"        
     },
     "confpaper":{
         "file": "Matspapers.bib",
@@ -51,7 +51,7 @@ publist = {
         "type" : "inproceedings",
         "collection" : {"name":"publications",
                         "permalink":"/publication/"},
-        "category" : "Conference papers"        
+        "category" : "conferences"        
     },
     "confabstract":{
         "file": "Matspapers.bib",
@@ -60,8 +60,17 @@ publist = {
         "type" : "conference",
         "collection" : {"name":"publications",
                         "permalink":"/publication/"},
-        "category" : "Conference abstracts"        
-    }
+        "category" : "abstract"        
+    },
+    "thesis":{
+        "file": "Matspapers.bib",
+        "venuekey" : "institution",
+        "venue-pretext" : "",
+        "type" : "thesis",
+        "collection" : {"name":"publications",
+                        "permalink":"/publication/"},
+        "category" : "thesis"        
+    },
 }
 
 html_escape_table = {

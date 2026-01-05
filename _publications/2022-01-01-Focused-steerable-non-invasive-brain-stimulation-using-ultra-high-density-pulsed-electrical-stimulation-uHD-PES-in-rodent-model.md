@@ -1,7 +1,7 @@
 ---
 title: "Focused steerable non-invasive brain stimulation using ultra high density pulsed electrical stimulation (uHD-PES) in rodent model"
 collection: publications
-category: Conference abstracts
+category: abstract
 permalink: /publication/2022-01-01-Focused-steerable-non-invasive-brain-stimulation-using-ultra-high-density-pulsed-electrical-stimulation-uHD-PES-in-rodent-model
 date: 2022-01-01
 venue: 'Neuroscience 2022 (SfN)'

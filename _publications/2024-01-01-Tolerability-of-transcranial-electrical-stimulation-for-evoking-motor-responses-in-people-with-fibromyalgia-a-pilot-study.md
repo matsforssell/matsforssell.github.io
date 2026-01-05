@@ -1,7 +1,7 @@
 ---
 title: "Tolerability of transcranial electrical stimulation for evoking motor responses in people with fibromyalgia: a pilot study"
 collection: publications
-category: Conference abstracts
+category: abstract
 permalink: /publication/2024-01-01-Tolerability-of-transcranial-electrical-stimulation-for-evoking-motor-responses-in-people-with-fibromyalgia-a-pilot-study
 date: 2024-01-01
 venue: 'Neuroscience 2024 (SfN)'

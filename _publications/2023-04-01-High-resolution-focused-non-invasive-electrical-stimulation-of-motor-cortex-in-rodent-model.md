@@ -1,7 +1,7 @@
 ---
 title: "High resolution focused non-invasive electrical stimulation of motor cortex in rodent model"
 collection: publications
-category: Conference papers
+category: conferences
 permalink: /publication/2023-04-01-High-resolution-focused-non-invasive-electrical-stimulation-of-motor-cortex-in-rodent-model
 date: 2023-04-01
 venue: '2023 11th International IEEE/EMBS Conference on Neural Engineering (NER)'
