@@ -79,6 +79,8 @@ publication_category:
    # title: 'Books'
   manuscripts:
     title: 'Journal Articles'    
+  manuscripts_submitted:
+    title: 'Submitted Articles (under review)'
   conferences:
     title: 'Conference Papers'
   abstract:
